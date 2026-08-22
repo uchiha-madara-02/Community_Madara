@@ -1,0 +1,7 @@
+{
+    "board": "ESP32-S3",
+    "version_display": "v1",
+    "created_at": 1784225275.6691945,
+    "description": "# Project Name\n## Introduction\nBrief description of your project...\n\n## Features\n- Feature 1\n- Feature 2\n\n## Sample Code\n```\nvoid setup() {\n  Serial.begin(115200);\n}\n```\n> Note: Remember to select the correct COM port.",
+    "flash_mode": "merged"
+}
