@@ -1,0 +1,7 @@
+{
+    "board": "ESP32-STD",
+    "version_display": "CYD-2USB",
+    "created_at": 1777194663.0623522,
+    "description": "# Project Name\n## Introduction\nBrief description of your project...\n\n## Features\n- Feature 1\n- Feature 2\n\n## Sample Code\n```\nvoid setup() {\n  Serial.begin(115200);\n}\n```\n> Note: Remember to select the correct COM port.",
+    "flash_mode": "merged"
+}
