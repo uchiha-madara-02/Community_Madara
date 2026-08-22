@@ -1,0 +1,7 @@
+{
+    "board": "BW16",
+    "version_display": "v7",
+    "created_at": 1777368230.1773758,
+    "description": "# Project Name\n## Introduction\nBrief description of your project...\n\n## Features\n- Feature 1\n- Feature 2\n\n## Sample Code\n```\nvoid setup() {\n  Serial.begin(115200);\n}\n```\n> Note: Remember to select the correct COM port.",
+    "flash_mode": "separate"
+}
